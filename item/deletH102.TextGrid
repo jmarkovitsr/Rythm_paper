@@ -2,7 +2,7 @@ File type = "ooTextFile"
 Object class = "TextGrid"
 
 xmin = 0 
-xmax = 1.3478684807256236 
+xmax = 0.9692743764172336 
 tiers? <exists> 
 size = 5 
 item []: 
@@ -10,71 +10,71 @@ item []:
         class = "IntervalTier" 
         name = "word" 
         xmin = 0 
-        xmax = 1.3478684807256236 
+        xmax = 0.9692743764172336 
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.29872721422654114 
+            xmax = 0.30904164699301356 
             text = "" 
         intervals [2]:
-            xmin = 0.29872721422654114 
-            xmax = 0.757296002014555 
+            xmin = 0.30904164699301356 
+            xmax = 0.7772801805633949 
             text = "delet" 
         intervals [3]:
-            xmin = 0.757296002014555 
-            xmax = 1.3478684807256236 
+            xmin = 0.7772801805633949 
+            xmax = 0.9692743764172336 
             text = "" 
     item [2]:
         class = "IntervalTier" 
         name = "vowel1" 
         xmin = 0 
-        xmax = 1.3478684807256236 
+        xmax = 0.9692743764172336 
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.41994261682528844 
+            xmax = 0.43547370673230906 
             text = "" 
         intervals [2]:
-            xmin = 0.41994261682528844 
-            xmax = 0.48202217439038353 
+            xmin = 0.43547370673230906 
+            xmax = 0.5308808535540928 
             text = "e" 
         intervals [3]:
-            xmin = 0.48202217439038353 
-            xmax = 1.3478684807256236 
+            xmin = 0.5308808535540928 
+            xmax = 0.9692743764172336 
             text = "" 
     item [3]:
         class = "IntervalTier" 
         name = "vowel2" 
         xmin = 0 
-        xmax = 1.3478684807256236 
+        xmax = 0.9692743764172336 
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.5588047850630011 
+            xmax = 0.5657252028281354 
             text = "" 
         intervals [2]:
-            xmin = 0.5588047850630011 
-            xmax = 0.6282358691818575 
+            xmin = 0.5657252028281354 
+            xmax = 0.6229694909212057 
             text = "e" 
         intervals [3]:
-            xmin = 0.6282358691818575 
-            xmax = 1.3478684807256236 
+            xmin = 0.6229694909212057 
+            xmax = 0.9692743764172336 
             text = "" 
     item [4]:
         class = "TextTier" 
         name = "language" 
         xmin = 0 
-        xmax = 1.3478684807256236 
+        xmax = 0.9692743764172336 
         points: size = 1 
         points [1]:
-            number = 0.5081609354704235 
+            number = 0.5308808535540928 
             mark = "heb1" 
     item [5]:
         class = "TextTier" 
         name = "id" 
         xmin = 0 
-        xmax = 1.3478684807256236 
+        xmax = 0.9692743764172336 
         points: size = 1 
         points [1]:
-            number = 0.5187798071591898 
-            mark = "01" 
+            number = 0.5333697356450958 
+            mark = "02" 
