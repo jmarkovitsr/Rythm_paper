@@ -14,14 +14,14 @@ item []:
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.1637036959086952 
+            xmax = 0.1643795362484182 
             text = "" 
         intervals [2]:
-            xmin = 0.1637036959086952 
-            xmax = 0.5178414141724301 
+            xmin = 0.1643795362484182 
+            xmax = 0.5024768457640788 
             text = "cama" 
         intervals [3]:
-            xmin = 0.5178414141724301 
+            xmin = 0.5024768457640788 
             xmax = 0.9159183673469388 
             text = "" 
     item [2]:
@@ -32,14 +32,14 @@ item []:
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.23361102337234038 
+            xmax = 0.23912740951007516 
             text = "" 
         intervals [2]:
-            xmin = 0.23361102337234038 
-            xmax = 0.2993559034873144 
+            xmin = 0.23912740951007516 
+            xmax = 0.28278016749488283 
             text = "a" 
         intervals [3]:
-            xmin = 0.2993559034873144 
+            xmin = 0.28278016749488283 
             xmax = 0.9159183673469388 
             text = "" 
     item [3]:
@@ -50,14 +50,14 @@ item []:
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.4009616273013652 
+            xmax = 0.39161307096385534 
             text = "" 
         intervals [2]:
-            xmin = 0.4009616273013652 
-            xmax = 0.489949646850926 
+            xmin = 0.39161307096385534 
+            xmax = 0.45798918242020675 
             text = "a" 
         intervals [3]:
-            xmin = 0.489949646850926 
+            xmin = 0.45798918242020675 
             xmax = 0.9159183673469388 
             text = "" 
     item [4]:
@@ -67,5 +67,5 @@ item []:
         xmax = 0.9159183673469388 
         points: size = 1 
         points [1]:
-            number = 0.33787310597891534 
-            mark = "span2" 
+            number = 0.33600065325718254 
+            mark = "sp2" 

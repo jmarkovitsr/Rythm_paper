@@ -14,14 +14,14 @@ item []:
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.31418102868712877 
+            xmax = 0.3127644953462561 
             text = "" 
         intervals [2]:
-            xmin = 0.31418102868712877 
-            xmax = 0.6960590215985633 
+            xmin = 0.3127644953462561 
+            xmax = 0.784120007067435 
             text = "delet" 
         intervals [3]:
-            xmin = 0.6960590215985633 
+            xmin = 0.784120007067435 
             xmax = 0.9692743764172336 
             text = "" 
     item [2]:
@@ -32,14 +32,14 @@ item []:
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.4367671642443815 
+            xmax = 0.4310227287140252 
             text = "" 
         intervals [2]:
-            xmin = 0.4367671642443815 
-            xmax = 0.5229242687449799 
+            xmin = 0.4310227287140252 
+            xmax = 0.4905712008353841 
             text = "e" 
         intervals [3]:
-            xmin = 0.5229242687449799 
+            xmin = 0.4905712008353841 
             xmax = 0.9692743764172336 
             text = "" 
     item [3]:
@@ -47,21 +47,17 @@ item []:
         name = "vowel2" 
         xmin = 0 
         xmax = 0.9692743764172336 
-        intervals: size = 4 
+        intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.51800100563066 
+            xmax = 0.5836681079546917 
             text = "" 
         intervals [2]:
-            xmin = 0.51800100563066 
-            xmax = 0.5770801630024988 
-            text = "heb1" 
+            xmin = 0.5836681079546917 
+            xmax = 0.6239262299522301 
+            text = "e" 
         intervals [3]:
-            xmin = 0.5770801630024988 
-            xmax = 0.6484674781601374 
-            text = "3" 
-        intervals [4]:
-            xmin = 0.6484674781601374 
+            xmin = 0.6239262299522301 
             xmax = 0.9692743764172336 
             text = "" 
     item [4]:
@@ -69,4 +65,7 @@ item []:
         name = "language" 
         xmin = 0 
         xmax = 0.9692743764172336 
-        points: size = 0 
+        points: size = 1 
+        points [1]:
+            number = 0.5232809249583841 
+            mark = "heb1" 

@@ -4,41 +4,64 @@ Object class = "TextGrid"
 xmin = 0 
 xmax = 0.35356009070294786 
 tiers? <exists> 
-size = 2 
+size = 4 
 item []: 
     item [1]:
         class = "IntervalTier" 
-        name = "syl1" 
+        name = "word" 
         xmin = 0 
         xmax = 0.35356009070294786 
-        intervals: size = 3 
+        intervals: size = 2 
         intervals [1]:
             xmin = 0 
-            xmax = 0.03895626989348273 
+            xmax = 0.028367799463236996 
             text = "" 
         intervals [2]:
-            xmin = 0.03895626989348273 
-            xmax = 0.1440078497463549 
-            text = "ka" 
-        intervals [3]:
-            xmin = 0.1440078497463549 
+            xmin = 0.028367799463236996 
             xmax = 0.35356009070294786 
-            text = "" 
+            text = "cama" 
     item [2]:
         class = "IntervalTier" 
-        name = "syl2" 
+        name = "vowel1" 
         xmin = 0 
         xmax = 0.35356009070294786 
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.14691526981275016 
+            xmax = 0.06914214897560278 
             text = "" 
         intervals [2]:
-            xmin = 0.14691526981275016 
-            xmax = 0.3237897210840196 
-            text = "ma" 
+            xmin = 0.06914214897560278 
+            xmax = 0.12393207678313552 
+            text = "a" 
         intervals [3]:
-            xmin = 0.3237897210840196 
+            xmin = 0.12393207678313552 
             xmax = 0.35356009070294786 
             text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "vowel2" 
+        xmin = 0 
+        xmax = 0.35356009070294786 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2282436701090151 
+            text = "" 
+        intervals [2]:
+            xmin = 0.2282436701090151 
+            xmax = 0.28830186020573373 
+            text = "a" 
+        intervals [3]:
+            xmin = 0.28830186020573373 
+            xmax = 0.35356009070294786 
+            text = "" 
+    item [4]:
+        class = "TextTier" 
+        name = "language" 
+        xmin = 0 
+        xmax = 0.35356009070294786 
+        points: size = 1 
+        points [1]:
+            number = 0.16765865378337796 
+            mark = "span2" 
