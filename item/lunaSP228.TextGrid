@@ -1,0 +1,71 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.3227210884353742 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 1.3227210884353742 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5999794238433558 
+            text = "" 
+        intervals [2]:
+            xmin = 0.5999794238433558 
+            xmax = 1.063105227101783 
+            text = "luna" 
+        intervals [3]:
+            xmin = 1.063105227101783 
+            xmax = 1.3227210884353742 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "vowel1" 
+        xmin = 0 
+        xmax = 1.3227210884353742 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6315152275671787 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6315152275671787 
+            xmax = 0.7180134320668071 
+            text = "u" 
+        intervals [3]:
+            xmin = 0.7180134320668071 
+            xmax = 1.3227210884353742 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "vowel2" 
+        xmin = 0 
+        xmax = 1.3227210884353742 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.850463807706863 
+            text = "" 
+        intervals [2]:
+            xmin = 0.850463807706863 
+            xmax = 1.0045387344718262 
+            text = "a" 
+        intervals [3]:
+            xmin = 1.0045387344718262 
+            xmax = 1.3227210884353742 
+            text = "" 
+    item [4]:
+        class = "TextTier" 
+        name = "language" 
+        xmin = 0 
+        xmax = 1.3227210884353742 
+        points: size = 1 
+        points [1]:
+            number = 0.8297402795454938 
+            mark = "span2" 

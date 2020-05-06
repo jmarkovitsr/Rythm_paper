@@ -4,7 +4,7 @@ Object class = "TextGrid"
 xmin = 0 
 xmax = 0.9692743764172336 
 tiers? <exists> 
-size = 5 
+size = 4 
 item []: 
     item [1]:
         class = "IntervalTier" 
@@ -14,14 +14,14 @@ item []:
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.30904164699301356 
+            xmax = 0.31418102868712877 
             text = "" 
         intervals [2]:
-            xmin = 0.30904164699301356 
-            xmax = 0.7772801805633949 
+            xmin = 0.31418102868712877 
+            xmax = 0.6960590215985633 
             text = "delet" 
         intervals [3]:
-            xmin = 0.7772801805633949 
+            xmin = 0.6960590215985633 
             xmax = 0.9692743764172336 
             text = "" 
     item [2]:
@@ -32,14 +32,14 @@ item []:
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.43547370673230906 
+            xmax = 0.4367671642443815 
             text = "" 
         intervals [2]:
-            xmin = 0.43547370673230906 
-            xmax = 0.5308808535540928 
+            xmin = 0.4367671642443815 
+            xmax = 0.5229242687449799 
             text = "e" 
         intervals [3]:
-            xmin = 0.5308808535540928 
+            xmin = 0.5229242687449799 
             xmax = 0.9692743764172336 
             text = "" 
     item [3]:
@@ -47,17 +47,21 @@ item []:
         name = "vowel2" 
         xmin = 0 
         xmax = 0.9692743764172336 
-        intervals: size = 3 
+        intervals: size = 4 
         intervals [1]:
             xmin = 0 
-            xmax = 0.5657252028281354 
+            xmax = 0.51800100563066 
             text = "" 
         intervals [2]:
-            xmin = 0.5657252028281354 
-            xmax = 0.6229694909212057 
-            text = "e" 
+            xmin = 0.51800100563066 
+            xmax = 0.5770801630024988 
+            text = "heb1" 
         intervals [3]:
-            xmin = 0.6229694909212057 
+            xmin = 0.5770801630024988 
+            xmax = 0.6484674781601374 
+            text = "3" 
+        intervals [4]:
+            xmin = 0.6484674781601374 
             xmax = 0.9692743764172336 
             text = "" 
     item [4]:
@@ -65,16 +69,4 @@ item []:
         name = "language" 
         xmin = 0 
         xmax = 0.9692743764172336 
-        points: size = 1 
-        points [1]:
-            number = 0.5308808535540928 
-            mark = "heb1" 
-    item [5]:
-        class = "TextTier" 
-        name = "id" 
-        xmin = 0 
-        xmax = 0.9692743764172336 
-        points: size = 1 
-        points [1]:
-            number = 0.5333697356450958 
-            mark = "02" 
+        points: size = 0 

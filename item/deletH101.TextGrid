@@ -4,7 +4,7 @@ Object class = "TextGrid"
 xmin = 0 
 xmax = 1.3478684807256236 
 tiers? <exists> 
-size = 5 
+size = 4 
 item []: 
     item [1]:
         class = "IntervalTier" 
@@ -14,14 +14,14 @@ item []:
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.29872721422654114 
+            xmax = 0.33655953620489726 
             text = "" 
         intervals [2]:
-            xmin = 0.29872721422654114 
-            xmax = 0.757296002014555 
+            xmin = 0.33655953620489726 
+            xmax = 0.7605565144201084 
             text = "delet" 
         intervals [3]:
-            xmin = 0.757296002014555 
+            xmin = 0.7605565144201084 
             xmax = 1.3478684807256236 
             text = "" 
     item [2]:
@@ -32,14 +32,14 @@ item []:
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.41994261682528844 
+            xmax = 0.4061843031539214 
             text = "" 
         intervals [2]:
-            xmin = 0.41994261682528844 
-            xmax = 0.48202217439038353 
+            xmin = 0.4061843031539214 
+            xmax = 0.48562794749319255 
             text = "e" 
         intervals [3]:
-            xmin = 0.48202217439038353 
+            xmin = 0.48562794749319255 
             xmax = 1.3478684807256236 
             text = "" 
     item [3]:
@@ -50,14 +50,14 @@ item []:
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.5588047850630011 
+            xmax = 0.5534674640076264 
             text = "" 
         intervals [2]:
-            xmin = 0.5588047850630011 
-            xmax = 0.6282358691818575 
+            xmin = 0.5534674640076264 
+            xmax = 0.6418373605198493 
             text = "e" 
         intervals [3]:
-            xmin = 0.6282358691818575 
+            xmin = 0.6418373605198493 
             xmax = 1.3478684807256236 
             text = "" 
     item [4]:
@@ -67,14 +67,5 @@ item []:
         xmax = 1.3478684807256236 
         points: size = 1 
         points [1]:
-            number = 0.5081609354704235 
+            number = 0.5043730770563913 
             mark = "heb1" 
-    item [5]:
-        class = "TextTier" 
-        name = "id" 
-        xmin = 0 
-        xmax = 1.3478684807256236 
-        points: size = 1 
-        points [1]:
-            number = 0.5187798071591898 
-            mark = "01" 

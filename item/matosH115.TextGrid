@@ -1,0 +1,75 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.6837083333333334 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 1.6837083333333334 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3791108645467915 
+            text = "" 
+        intervals [2]:
+            xmin = 0.3791108645467915 
+            xmax = 0.47817210959274503 
+            text = "matos" 
+        intervals [3]:
+            xmin = 0.47817210959274503 
+            xmax = 1.023950179231887 
+            text = "" 
+        intervals [4]:
+            xmin = 1.023950179231887 
+            xmax = 1.6837083333333334 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "vowel1" 
+        xmin = 0 
+        xmax = 1.6837083333333334 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5148630722575613 
+            text = "" 
+        intervals [2]:
+            xmin = 0.5148630722575613 
+            xmax = 0.5997109234199489 
+            text = "a" 
+        intervals [3]:
+            xmin = 0.5997109234199489 
+            xmax = 1.6837083333333334 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "vowel2" 
+        xmin = 0 
+        xmax = 1.6837083333333334 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6513075896673468 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6513075896673468 
+            xmax = 0.7739929960778262 
+            text = "o" 
+        intervals [3]:
+            xmin = 0.7739929960778262 
+            xmax = 1.6837083333333334 
+            text = "" 
+    item [4]:
+        class = "TextTier" 
+        name = "language" 
+        xmin = 0 
+        xmax = 1.6837083333333334 
+        points: size = 1 
+        points [1]:
+            number = 0.6513075896673468 
+            mark = "heb1" 

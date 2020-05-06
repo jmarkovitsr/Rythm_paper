@@ -1,0 +1,71 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.5163265306122449 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 1.5163265306122449 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2651388723908654 
+            text = "" 
+        intervals [2]:
+            xmin = 0.2651388723908654 
+            xmax = 0.7782633035495127 
+            text = "keleb" 
+        intervals [3]:
+            xmin = 0.7782633035495127 
+            xmax = 1.5163265306122449 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "vowel1" 
+        xmin = 0 
+        xmax = 1.5163265306122449 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.42319403422604207 
+            text = "" 
+        intervals [2]:
+            xmin = 0.42319403422604207 
+            xmax = 0.49119451082954835 
+            text = "e" 
+        intervals [3]:
+            xmin = 0.49119451082954835 
+            xmax = 1.5163265306122449 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "vowel2" 
+        xmin = 0 
+        xmax = 1.5163265306122449 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5435732563214383 
+            text = "" 
+        intervals [2]:
+            xmin = 0.5435732563214383 
+            xmax = 0.6345468669126155 
+            text = "e" 
+        intervals [3]:
+            xmin = 0.6345468669126155 
+            xmax = 1.5163265306122449 
+            text = "" 
+    item [4]:
+        class = "TextTier" 
+        name = "language" 
+        xmin = 0 
+        xmax = 1.5163265306122449 
+        points: size = 1 
+        points [1]:
+            number = 0.4948702122675757 
+            mark = "heb2" 
